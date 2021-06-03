@@ -1,0 +1,12 @@
+#general-bkg {
+  background-color:#F2F2F2;
+}
+
+#general-text {
+  font-size:16px;
+  background-color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 4px;
+  padding:10px;
+  margin:5px;
+}
